@@ -130,3 +130,7 @@ Ctrl + Alt + S　打开设置页
 Ctrl + Shift + A查找编辑器里所有的动作
 Ctrl + Tab在窗口间进行切换
 
+
+
+#test
+
